@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "0000000000000",
+    "firebase_url": "https://xxxxxxx.firebaseio.com",
+    "project_id": "the-city-api"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:0000000000000:android:xxxxxxxxxxxxxxxx",
+        "android_client_info": {
+          "package_name": "com.app.thecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "0000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
