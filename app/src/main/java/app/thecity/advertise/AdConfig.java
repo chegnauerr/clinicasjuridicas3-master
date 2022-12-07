@@ -9,12 +9,12 @@ public class AdConfig implements Serializable {
     // flag for display ads
 
     // flag for enable/disable all ads
-    public static final boolean ADS_ENABLE = true;
+    public static final boolean ADS_ENABLE = false;
 
-    public static final boolean ADS_MAIN_BANNER = true;
-    public static final boolean ADS_MAIN_INTERSTITIAL = true;
-    public static final boolean ADS_PLACE_DETAILS_BANNER = true;
-    public static final boolean ADS_NEWS_DETAILS_BANNER = true;
+    public static final boolean ADS_MAIN_BANNER = false;
+    public static final boolean ADS_MAIN_INTERSTITIAL = false;
+    public static final boolean ADS_PLACE_DETAILS_BANNER = false;
+    public static final boolean ADS_NEWS_DETAILS_BANNER = false;
 
     // if you not use ads you can set this to false
     public static final boolean ENABLE_GDPR = true;
