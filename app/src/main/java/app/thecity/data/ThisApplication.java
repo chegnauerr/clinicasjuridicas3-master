@@ -46,7 +46,7 @@ public class ThisApplication extends Application {
         FirebaseApp.initializeApp(this);
 
         // initialize admob
-        AdNetworkHelper.init(this);
+        //AdNetworkHelper.init(this);
 
         // obtain regId & registering device to server
         obtainFirebaseToken();
